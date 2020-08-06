@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EurekaServerApplication<eureka-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "edu.urbe.eurekaserver.EurekaServerApplication",
+            "projectName": "eureka-server",
+            "args": ""
+        }
+    ]
+}
